@@ -1,0 +1,21 @@
+{
+  "name": "alexa-running-calendar",
+  "version": "0.0.1",
+  "description": "an amazon alexa skill for finding out when and where the next running race is being held in new york city.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefforulez/alexa-nyrc.git"
+  },
+  "author": "@jefforulez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jefforulez/alexa-nyrc/issues"
+  },
+  "homepage": "https://github.com/jefforulez/alexa-nyrc#readme"
+}

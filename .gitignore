@@ -1,0 +1,6 @@
+
+target/
+config/
+temp/
+node_modules
+src/node_modules

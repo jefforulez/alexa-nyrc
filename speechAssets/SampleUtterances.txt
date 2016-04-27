@@ -1,0 +1,29 @@
+NYRCWhenIsTheNextRace when the next race is
+NYRCWhenIsTheNextRace what the next race is
+NYRCWhenIsTheNextRace when is the next race
+NYRCWhenIsTheNextRace when's the next race
+NYRCWhenIsTheNextRace what's the next race
+NYRCWhenIsTheNextRace what is the next race
+NYRCWhenIsTheNextRace get the next event
+NYRCWhenIsTheNextRace when the next event is
+NYRCWhenIsTheNextRace what the next event is
+NYRCWhenIsTheNextRace when is the next event
+NYRCWhenIsTheNextRace when's the next event
+NYRCWhenIsTheNextRace what's the next event
+NYRCWhenIsTheNextRace what is the next event
+NYRCWhenIsTheNextRace get the next race
+NYRCWhenIsTheNextRace next race
+
+HearMore yes
+HearMore yep
+HearMore yeah
+HearMore sure
+HearMore yes please
+HearMore affirmative
+HearMore more
+
+DontHearMore no
+DontHearMore nope
+DontHearMore no thank you
+DontHearMore not now
+DontHearMore negative
